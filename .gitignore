@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Environment files
+.env
+
+# Build directories
+build/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+*.old
+
+# Coverage reports
+coverage/
+
+# Debugging files
+*.log
+*.tgz
+
+# Other
+.nyc_output/
